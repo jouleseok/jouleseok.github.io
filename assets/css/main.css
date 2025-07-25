@@ -2095,7 +2095,7 @@ button,
     #header {
       padding-top: 5em; } }
   /* @media screen and (max-width: 736px) { */
-  @media screen and (max-width: 645px) {
+  @media screen and (max-width: 1680px) {
     #header {
       padding-top: 6.5em; }
       #header .logo {
