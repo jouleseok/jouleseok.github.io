@@ -1,0 +1,14 @@
+# System files
+Thumbs.db
+
+# IDE/Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS specific
+.DS_Store
